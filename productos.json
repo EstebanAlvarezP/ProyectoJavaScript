@@ -1,0 +1,34 @@
+[
+    {
+        "nombre": "Hamburguesa",
+        "ingredientes":["Pan integral"," lechuga", " cebolla", " tomate", " carne", " queso chedar"],
+        "id": 1,
+        "precio": 20,
+        "img": "hamburguesa.jpg"
+    },
+    {
+        "nombre": "HotDog",
+        "ingredientes":["Salchicha", " papa", " salsas", " cebolla"],
+        "precio": 10,
+        "img": "Perro.jpg",
+        "id": 2
+
+    },
+    {
+        "nombre": "Nachos",
+        "ingredientes":["Carne", " pollo", " lechuga", " guacamole", " jalapeños"],
+        "precio": 25,
+        "img": "Nachos.jpg",
+        "id": 3
+
+    },
+    {
+        "nombre": "Pizza",
+        "ingredientes":["Pasta de tomate", " peperoni", " albaca"],
+        "precio": 30,
+        "img": "Pizza.jpg",
+        "id": 4
+
+    }
+
+]

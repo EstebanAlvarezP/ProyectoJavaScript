@@ -1,42 +1,22 @@
 body {
-  font-family: Arial, sans-serif;
+  background-image: url('./img/Grafiti.jpg');
+  background-size: cover; 
+  background-repeat: no-repeat; 
+}
+h1{
+  color: greenyellow;
   text-align: center;
-  margin: 0;
-  padding: 0;
+  background-color: rgba(11, 11, 190, 0.575);
 }
 
-ul {
-  list-style: none;
-  padding: 0;
+#cart{
+  background-color: rgba(0, 0, 255, 0.589);
+  text-align: center;
+  color: greenyellow;
 }
 
-li {
-  margin: 10px 0;
-}
-
-#product-list {
-  float: left;
-  width: 50%;
-}
-
-#cart {
-  float: right;
-  width: 50%;
-}
-
-#total {
-  clear: both;
-  font-weight: bold;
-}
-
-button {
-  background-color: #3498db;
-  color: #fff;
-  border: none;
-  padding: 5px 10px;
-  cursor: pointer;
-}
-
-button:hover {
-  background-color: #2980b9;
+button{
+  display: flex;
+  justify-content: center; 
+  align-items: center; 
 }
